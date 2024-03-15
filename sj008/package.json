@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/irwanma/sj008"
+    "url": "git+https://github.com/irwanma/sj008.git"
   },
   "author": "",
   "license": "ISC",
